@@ -15,8 +15,7 @@
 <br>
 
 - Doing my B.Tech in CSE at Mahindra University
-- Undergraduate Intern at Dell Technologies
-- Interested in development
+- Interested in development and data analysis
 
 <br><br>
 
