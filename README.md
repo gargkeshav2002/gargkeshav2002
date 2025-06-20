@@ -45,7 +45,7 @@
 
 ## 🔥 Featured Projects
 
-### 🛡️ [SkillTracker](https://github.com/gargkeshav2002/skilltracker)  
+### 🛡️ [SkillTracker](https://github.com/gargkeshav2002/SkillStack)  
 Secure user-skill management microservice with:
 - JWT Authentication, RBAC, Swagger docs, and modular Spring Boot layers
 - Unit Testing with JUnit & Mockito
